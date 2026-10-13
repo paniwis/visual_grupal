@@ -17,6 +17,7 @@ public class Visual_grupal {
         System.out.println(calculoResta(c,d));
         System.out.println("");
         System.out.println("Multiplicacion: "+calculoMultiplicacion(b,c));
+        mensaje();
          
         
         
@@ -37,5 +38,9 @@ public class Visual_grupal {
         
         return num1 / num2;
         
+    }
+    public static void mensaje () {
+        System.out.println("");
+        System.out.println("mensaje");
     }
 }
