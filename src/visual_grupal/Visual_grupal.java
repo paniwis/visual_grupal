@@ -17,6 +17,7 @@ public class Visual_grupal {
         System.out.println(calculoResta(c,d));
         System.out.println("");
         System.out.println("Multiplicacion: "+calculoMultiplicacion(b,c));
+        System.out.println("hola como estas");
         mensaje();
          
         
