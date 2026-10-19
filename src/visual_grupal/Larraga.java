@@ -9,5 +9,7 @@ package visual_grupal;
  * @author User
  */
 public class Larraga {
-    
+    public static void main(String[] args) {
+        System.out.println("HOLA ");
+    }
 }
