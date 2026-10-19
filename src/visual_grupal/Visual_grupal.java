@@ -1,4 +1,4 @@
-
+  
 package visual_grupal;
 
 public class Visual_grupal {
